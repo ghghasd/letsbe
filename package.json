@@ -1,0 +1,10 @@
+{
+  "name": "letsbe",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "author": "jh",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
